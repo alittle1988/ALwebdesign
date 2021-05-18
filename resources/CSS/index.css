@@ -13,6 +13,13 @@ nav {
     padding-top: 10px;
 }
 
+@media only screen and (max-width:500px){
+    header{
+        margin-bottom: 50px;
+        
+    }
+}
+
 /*jumbotron section*/
 
 .jumbotron {
