@@ -13,11 +13,10 @@ nav {
     padding-top: 10px;
 }
 
-@media only screen and (max-width:500px){
+@media only screen and (max-width:770px){
     header{
         margin-bottom: 50px;
-        
-    }
+      }  
 }
 
 /*jumbotron section*/
@@ -45,6 +44,19 @@ nav {
 #imgofme{
     width: 300px;
     height: 250px;
+}
+
+/*experience section*/
+
+#expimg{
+    width:100%;
+    height: 250px;
+    align-items: center;
+}
+
+.exppara{
+    text-align: center;
+    padding-top: 35px;
 }
 
 /*contact info*/
